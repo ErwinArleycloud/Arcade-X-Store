@@ -61,8 +61,8 @@ http://127.0.0.1:5000/
 ![Banner](screenshots/banner_juegos.png)
 
 **Cifras ascendientes**
-![Cifras](cifras_autoincrement.png)
-
+![Cifras](screenshots/Cifras_autoincrement.png)
+Fix image paths in README
 
 **👨‍💻 Autor**
 
