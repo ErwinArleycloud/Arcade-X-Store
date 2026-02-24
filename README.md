@@ -49,19 +49,19 @@ http://127.0.0.1:5000/
 **📸 Capturas del proyecto**
 
 **pagina principal**
-![Inicio](screenshots/Pagina_principal.png)
+![Inicio](screenshots/Pagina_principal.png.jpeg)
 
 **Formulario de soporte**
-![Soporte](screenshots/Formulario_soporte.png)
+![Soporte](screenshots/Formulario_soporte.png.jpeg)
 
 **panel de mensajea**
-![Admin](screenshots/paneladmin_conmensajes.png)
+![Admin](screenshots/paneladmin_conmensajes.png.jpeg)
 
 **banner juegos**
-![Banner](screenshots/banner_juegos.png)
+![Banner](screenshots/banner_juegos.png.jpeg)
 
 **Cifras ascendientes**
-![Cifras](screenshots/Cifras_autoincrement.png)
+![Cifras](screenshots/Cifras_autoincrement.png.jpeg)
 
 
 **👨‍💻 Autor**
