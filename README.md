@@ -62,7 +62,7 @@ http://127.0.0.1:5000/
 
 **Cifras ascendientes**
 ![Cifras](screenshots/Cifras_autoincrement.png)
-Fix image paths in README
+
 
 **👨‍💻 Autor**
 
