@@ -4,7 +4,7 @@ Arcade X Store es una página web temática gamer desarrollada como proyecto aca
 El proyecto incluye diseño frontend, almacenamiento de mensajes de soporte y panel de visualización de datos.
 
 
-**🚀 Tecnologías utilizadas: Se implementaron las siguientes tecnologias**
+** Tecnologías utilizadas: Se implementaron las siguientes tecnologias**
 
 - HTML5
 - CSS3
@@ -15,7 +15,7 @@ El proyecto incluye diseño frontend, almacenamiento de mensajes de soporte y pa
 - Git & GitHub
 
 
-**🧩 Funcionalidades**
+**Funcionalidades**
 
 ✅ Diseño web estilo tienda gamer
 ✅ Sección de soporte con formulario funcional
@@ -24,14 +24,14 @@ El proyecto incluye diseño frontend, almacenamiento de mensajes de soporte y pa
 ✅ Organización por carpetas (templates, static, database)
 
 
-📂 **Estructura del proyecto**
+ **Estructura del proyecto**
 - "app.py" → servidor Flask
 - "templates/" → archivos HTML
 - "static/" → CSS e imágenes
 - "database/juegos.db" → base de datos SQLite
 
 
-**▶ Cómo ejecutar el proyecto**
+**Cómo ejecutar el proyecto**
 
 1. Clonar repositorio
 2. Instalar dependencias
@@ -46,7 +46,7 @@ python app.py
 
 http://127.0.0.1:5000/
 
-**📸 Capturas del proyecto**
+**Capturas del proyecto**
 
 **pagina principal**
 ![Inicio](screenshots/Pagina_principal.png.jpeg)
